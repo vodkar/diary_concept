@@ -8,5 +8,6 @@ My own concept of diary that meets my requirements.
 - To remember sudden ideas and check this at free time.
 - To collect statistics of everything.
 - To be available at any time and anywhere.
+- Stop to use on fly generated thoughts!
 
 # Concept description
